@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Joseph Goff
-Credit: Morgan Gardner
+Credit: Billy Bender
 
 Assignment:
 
